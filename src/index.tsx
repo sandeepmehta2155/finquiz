@@ -2,7 +2,6 @@ import { render } from "react-dom";
 import App from "./App";
 import { BrowserRouter as Router } from "react-router-dom";
 
-export { RouteComponents } from "./Route-Components/route-components";
 export { HomePage } from "./Home-Page/home-page";
 // export { QuestionPage } from "./"
 
