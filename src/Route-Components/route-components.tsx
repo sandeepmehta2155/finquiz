@@ -5,7 +5,6 @@ export const RouteComponents = () => {
   return (
     <Routes>
       <Route path="/" element={<useComponent.HomePage />} />
-      <Route path="/question" element={<useComponent.QuestionPage />} />
     </Routes>
   );
 };
